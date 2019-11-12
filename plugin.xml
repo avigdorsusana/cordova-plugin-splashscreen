@@ -38,6 +38,7 @@
     </js-module>
 
     <!-- android -->
+<!--
     <platform name="android">
         <config-file target="res/xml/config.xml" parent="/*">
             <feature name="SplashScreen">
@@ -48,6 +49,7 @@
 
         <source-file src="src/android/SplashScreen.java" target-dir="src/org/apache/cordova/splashscreen" />
     </platform>
+-->
 
     <!-- ios -->
     <platform name="ios">
